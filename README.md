@@ -7,5 +7,5 @@ The primary objective is to develop an AI system capable of recognizing human ac
 
 **Approach**
 The project aims to leverage TensorFlow and its Keras API to construct a CNN-LSTM architecture for human activity recognition in videos. This involves preprocessing video data by extracting frames, normalizing pixel values, and generating sequences. The CNN layers will be designed and configured to extract spatial features from video frames, while LSTM layers will capture temporal dependencies and sequence information. Training will involve batch processing, dropout, and optimization techniques like the Adam optimizer to enhance model performance. Evaluation will be conducted using metrics such as accuracy, precision, recall, and F1-score to assess the model's effectiveness in recognizing human activities accurately.
-![image](https://github.com/Dinesh-Kothandaraman/AI-Project-Repo---Team-M-D/assets/145300568/371eb624-0aa6-4127-9733-f1cf71dcc593)
+
 
